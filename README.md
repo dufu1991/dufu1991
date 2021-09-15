@@ -5,7 +5,7 @@
   <a href="https://lu.dufustudio.com"><img src="./images/dufu1991.png" alt="显示不了图片，开一下VPN吧🛫"></a>
 </p>
 
-### States
+### Stats
 
 [![handoing's github stats](https://github-readme-stats.vercel.app/api?username=dufu1991&show_icons=true&theme=buefy)](https://github.com/dufu1991)
 
