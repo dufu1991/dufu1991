@@ -18,4 +18,4 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,react,svelte,tailwind,vscode,vue,git,md,blender,figma,ai,ps)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,react,svelte,vue,tailwind,vscode,git,md,blender,figma,ai,ps)
