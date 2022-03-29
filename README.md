@@ -15,3 +15,7 @@
 <p>
   <a href="https://simplecloudmusic.com"><img src="./images/scm.png" alt="简易云音乐 - 简洁的的第三方网易云音乐播放器"></a>
 </p>
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,react,svelte,tailwind,vscode,vue,git,md,blender,figma,ai,ps)](https://skillicons.dev)
