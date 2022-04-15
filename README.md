@@ -1,5 +1,3 @@
-<hr>
-
 ### About
 
 <p>
@@ -11,16 +9,13 @@
 
 ### Stats
 
-
-
-  [![dufu1991's github stats](https://github-readme-stats.vercel.app/api?username=dufu1991&show_icons=true&theme=buefy&card_width=1920)](https://github.com/dufu1991)
+[![dufu1991's github stats](https://github-readme-stats.vercel.app/api?username=dufu1991&show_icons=true&theme=buefy&card_width=1920)](https://github.com/dufu1991)
 
 <hr>
 
 ### Languages
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dufu1991&layout=compact&hide=css)](https://github.com/dufu1991)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dufu1991&layout=compact&hide=css)](https://github.com/dufu1991)
 
 <hr>
 
