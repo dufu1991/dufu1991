@@ -29,4 +29,4 @@
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,react,svelte,vue,tailwind,vscode,git,md,blender,figma,ai,ps)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,react,svelte,vue,tailwind,vscode,git,md,blender,figma,ai,ps)](https://github.com/dufu1991)
