@@ -10,7 +10,7 @@
 ### Stats
 
 <p>
-  <a href="https://github.com/dufu1991"><img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=dufu1991&show_icons=true&theme=buefy&card_width=100%"></a>
+  <a href="https://github.com/dufu1991"><img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=dufu1991&show_icons=true&theme=buefy"></a>
 </p>
 
 <hr>
