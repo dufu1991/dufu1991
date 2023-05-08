@@ -10,7 +10,7 @@
 ### Stats
 
 <p>
-  <a href="https://github.com/dufu1991"><img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=dufu1991&show_icons=true&theme=buefy"></a>
+  <a href="https://github.com/dufu1991"><img style="width:100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dufu1991&show_icons=true&theme=buefy"></a>
 </p>
 
 <hr>
@@ -19,7 +19,7 @@
 
 
 <p>
-  <a href="https://github.com/dufu1991"><img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dufu1991&layout=compact&hide=css"></a>
+  <a href="https://github.com/dufu1991"><img style="width:100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dufu1991&layout=compact&hide=css"></a>
 </p>
 
 <hr>
