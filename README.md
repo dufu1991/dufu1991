@@ -44,20 +44,20 @@
 
 <hr>
 
-### Skills
-
-<p>
-  <a href="https://github.com/dufu1991">
-    <img style="width:100%" src="https://skillicons.dev/icons?i=js,html,css,svelte,tailwind,vue,react,rollupjs,vscode,git,md,github,vite,webpack,wordpress,ps,ai,figma,blender" alt="Skills">
-  </a>
-</p>
-
-<hr>
-
 ### Activities
 
 <p>
   <a href="https://github.com/dufu1991">
     <img style="width:100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dufu1991&theme=github&height=320&radius=16&hide_title=true&hide_border=true" alt="Activities">
+  </a>
+</p>
+
+<hr>
+
+### Skills
+
+<p>
+  <a href="https://github.com/dufu1991">
+    <img style="width:100%" src="https://skillicons.dev/icons?i=js,html,css,svelte,tailwind,vue,react,rollupjs,vscode,git,md,github,vite,webpack,wordpress,ps,ai,figma,blender" alt="Skills">
   </a>
 </p>
