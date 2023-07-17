@@ -48,7 +48,7 @@
 
 <p>
   <a href="https://github.com/dufu1991">
-    <img style="width:100%" src="https://skillicons.dev/icons?i=js,html,css,react,svelte,vue,tailwind,rollupjs,vscode,git,md,blender,figma,ai,ps" alt="Skills">
+    <img style="width:100%" src="https://skillicons.dev/icons?i=js,html,css,svelte,tailwind,vue,react,rollupjs,vscode,git,md,github,vite,webpack,wordpress,ps,ai,figma,blender" alt="Skills">
   </a>
 </p>
 
