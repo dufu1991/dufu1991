@@ -8,7 +8,6 @@
     </picture>
   </a>
 </p>
-<hr>
 
 ### Stats
 
@@ -21,8 +20,6 @@
   </a>
 </p>
 
-<hr>
-
 ### Languages
 
 <p>
@@ -33,8 +30,6 @@
     </picture>
   </a>
 </p>
-
-<hr>
 
 ### Works
 
@@ -56,8 +51,6 @@
   </a>
 </p>
 
-<hr>
-
 ### Activities
 
 <p>
@@ -65,8 +58,6 @@
     <img style="width:100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dufu1991&theme=github&height=320&radius=16&hide_title=true&hide_border=true" alt="Activities">
   </a>
 </p>
-
-<hr>
 
 ### Skills
 
