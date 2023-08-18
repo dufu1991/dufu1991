@@ -75,8 +75,8 @@
 <p>
   <a href="https://github.com/dufu1991">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dufu1991/dufu1991/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
-      <img width="100%" src="https://raw.githubusercontent.com/dufu1991/dufu1991/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Records">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dufu1991/dufu1991/output/github-contribution-grid-snake-dark.svg">
+      <img width="100%" src="https://raw.githubusercontent.com/dufu1991/dufu1991/output/github-contribution-grid-snake.svg" alt="Records">
     </picture>
   </a>
 </p>
