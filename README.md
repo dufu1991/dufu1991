@@ -9,17 +9,6 @@
   </a>
 </p>
 
-### Languages
-
-<p>
-  <a href="https://github.com/dufu1991">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dufu1991&layout=compact&theme=material-palenight&hide_border=true&bg_color=222638">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dufu1991&layout=compact&theme=buefy&hide_border=true&bg_color=ebedfd" alt="Languages" >
-    </picture>
-  </a>
-</p>
-
 ### Works
 
 <p>
