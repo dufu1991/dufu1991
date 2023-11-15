@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  <a href="https://simplecloudmusic.com">
+  <a href="https://github.com/dufu1991/simple-cloud-music">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/scm-dark.png">
       <img width="100%" src="./images/scm-light.png" alt="简易云音乐 - 简洁的的第三方网易云音乐播放器" >
