@@ -12,6 +12,24 @@
 ### Works
 
 <p>
+  <a href="https://youran-tab.du-fu.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/youran-tab-dark.png">
+      <img width="100%" src="./images/youran-tab-light.png" alt="悠然标签页，开源且高度可定制的新标签页扩展" >
+    </picture>
+  </a>
+</p>
+
+<p>
+  <a href="https://youran-toolbox.du-fu.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/youran-toolbox-dark.png">
+      <img width="100%" src="./images/youran-toolbox-light.png" alt="悠然工具箱，跨平台、本地离线、注重隐私的工具集" >
+    </picture>
+  </a>
+</p>
+
+<p>
   <a href="https://stdf.design">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/stdf-dark.png">
@@ -44,7 +62,7 @@
 
 <p>
   <a href="https://github.com/dufu1991">
-    <img style="width:100%" src="https://skillicons.dev/icons?i=js,html,css,svelte,tailwind,vue,react,rollupjs,vscode,git,md,github,vite,webpack,wordpress,ps,ai,figma,blender" alt="Skills">
+    <img style="width:100%" src="https://skillicons.dev/icons?i=js,html,css,svelte,tailwind,vue,react,rollupjs,vscode,git,md,github,vite,webpack,wordpress,ps,ai,figma,blender,bun,npm,tauri,typescript" alt="Skills">
   </a>
 </p>
 
