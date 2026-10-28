@@ -12,37 +12,46 @@
 ### Works
 
 <p>
+  <a href="https://foldgit.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/foldgit-dark.png">
+      <img width="49%" src="./images/foldgit-light.png" alt="FoldGit - Native Git client for repos and worktrees">
+    </picture>
+  </a>
+  <a href="https://nornakit.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/nornakit-dark.png">
+      <img width="49%" src="./images/nornakit-light.png" alt="NornaKit - Render Mermaid diagrams in pure Swift">
+    </picture>
+  </a>
+</p>
+
+<p>
   <a href="https://youran-tab.du-fu.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/youran-tab-dark.png">
-      <img width="100%" src="./images/youran-tab-light.png" alt="悠然标签页，开源且高度可定制的新标签页扩展" >
+      <img width="49%" src="./images/youran-tab-light.png" alt="Youran Tab - A customizable, open-source new tab" >
     </picture>
   </a>
-</p>
-
-<p>
   <a href="https://youran-toolbox.du-fu.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/youran-toolbox-dark.png">
-      <img width="100%" src="./images/youran-toolbox-light.png" alt="悠然工具箱，跨平台、本地离线、注重隐私的工具集" >
+      <img width="49%" src="./images/youran-toolbox-light.png" alt="Youran Toolbox - Offline tools built for your privacy" >
     </picture>
   </a>
 </p>
 
 <p>
-  <a href="https://stdf.design">
+  <a href="https://any-tdf.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/stdf-dark.png">
-      <img width="100%" src="./images/stdf-light.png" alt="STDF - Mobile Web component library based on Svelte and Tailwind">
+      <source media="(prefers-color-scheme: dark)" srcset="./images/any-tdf-dark.png">
+      <img width="49%" src="./images/any-tdf-light.png" alt="Any TDF - Mobile UI for Svelte, React and Vue">
     </picture>
   </a>
-</p>
-
-<p>
   <a href="https://github.com/dufu1991/simple-cloud-music">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/scm-dark.png">
-      <img width="100%" src="./images/scm-light.png" alt="简易云音乐 - 简洁的的第三方网易云音乐播放器" >
+      <img width="49%" src="./images/scm-light.png" alt="Simple Cloud Music - A minimal player for NetEase Cloud Music" >
     </picture>
   </a>
 </p>
