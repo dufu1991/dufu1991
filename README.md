@@ -71,7 +71,10 @@
 
 <p>
   <a href="https://github.com/dufu1991">
-    <img style="width:100%" src="https://skillicons.dev/icons?i=js,html,css,svelte,tailwind,vue,react,rollupjs,vscode,git,md,github,vite,webpack,wordpress,ps,ai,figma,blender,bun,npm,tauri,typescript" alt="Skills">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,typescript,html,css,svelte,vue,react,tailwind,swift,rust,cs,dotnet,tauri,vite,rollupjs,webpack,bun,npm,git,github,githubactions,cloudflare,py,vscode,md,wordpress,ps,ai,figma,blender&theme=dark&perline=15">
+      <img width="100%" src="https://skillicons.dev/icons?i=js,typescript,html,css,svelte,vue,react,tailwind,swift,rust,cs,dotnet,tauri,vite,rollupjs,webpack,bun,npm,git,github,githubactions,cloudflare,py,vscode,md,wordpress,ps,ai,figma,blender&theme=light&perline=15" alt="Languages, frameworks, developer tools and design tools">
+    </picture>
   </a>
 </p>
 
