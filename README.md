@@ -61,8 +61,8 @@
 <p>
   <a href="https://github.com/dufu1991">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dufu1991&theme=github&height=380&radius=16&hide_title=true&hide_border=true&bg_color=222638">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dufu1991&theme=github&height=380&radius=16&hide_title=true&hide_border=true&bg_color=ebedfd&color=292c33" alt="Activities">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dufu1991&theme=github_dark">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dufu1991&theme=github" alt="GitHub 近一年贡献趋势与个人统计">
     </picture>
   </a>
 </p>
