@@ -72,8 +72,8 @@
 <p>
   <a href="https://github.com/dufu1991">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,typescript,html,css,svelte,vue,react,tailwind,swift,rust,cs,dotnet,tauri,vite,rollupjs,webpack,bun,npm,git,github,githubactions,cloudflare,py,vscode,md,wordpress,ps,ai,figma,blender&theme=dark&perline=15">
-      <img width="100%" src="https://skillicons.dev/icons?i=js,typescript,html,css,svelte,vue,react,tailwind,swift,rust,cs,dotnet,tauri,vite,rollupjs,webpack,bun,npm,git,github,githubactions,cloudflare,py,vscode,md,wordpress,ps,ai,figma,blender&theme=light&perline=15" alt="Languages, frameworks, developer tools and design tools">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Ctypescript%2Chtml%2Ccss%2Csvelte%2Cvue%2Creact%2Ctailwind%2Cswift%2Crust%2Ccs%2Cdotnet%2Ctauri%2Cvite%2Crollupjs%2Cwebpack%2Cbun%2Cnpm%2Cgit%2Cgithub%2Cgithubactions%2Ccloudflare%2Cpy%2Cvscode%2Cmd%2Cwordpress%2Cps%2Cai%2Cfigma%2Cblender&amp;theme=dark&amp;perline=15">
+      <img width="100%" src="https://skillicons.dev/icons?i=js%2Ctypescript%2Chtml%2Ccss%2Csvelte%2Cvue%2Creact%2Ctailwind%2Cswift%2Crust%2Ccs%2Cdotnet%2Ctauri%2Cvite%2Crollupjs%2Cwebpack%2Cbun%2Cnpm%2Cgit%2Cgithub%2Cgithubactions%2Ccloudflare%2Cpy%2Cvscode%2Cmd%2Cwordpress%2Cps%2Cai%2Cfigma%2Cblender&amp;theme=light&amp;perline=15" alt="Languages, frameworks, developer tools and design tools">
     </picture>
   </a>
 </p>
